@@ -28,7 +28,7 @@ class App extends Component {
         <button onClick={() => this.onClickButton()}>Click Me</button>
         <br />
         <br />
-        Welcome {this.state.name}
+        Welcome {this.state.name} to the page
       </div>
     );
   }
